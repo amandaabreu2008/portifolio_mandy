@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+ *{
+  margin: 0;
+  padding: 0;
+  border: 0;
+ }
+ 
+  body {
+    background-color: #252525;
+  }
+  header{
+    padding: 32px;
+    border-bottom: 1px solid #333;
+    background-color: rgba(0, 0,0,0.1)
+  }
+  header div {
+  text-align: center;
+  }
+  header div a {
+    color: azure;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 16px;
+   text-decoration: none;
+   font-family: 'Times New Roman', Times, serif;
+  }
+  header div a:hover {
+    color: crimson;
+    transition: color 700ms;
+  }
+ #box{
+    text-align: left;
+    padding: 25px;
+ }
+ #box img {
+    max-height: 200px;
+    border-radius: 50%;
+    border: 5px color(rgb pink);
+    margin-bottom: 32px;
+ }
