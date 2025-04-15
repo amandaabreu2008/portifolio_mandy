@@ -10,7 +10,7 @@
     background-color: #252525;
   }
   header{
-    padding: 32px;
+    padding: 5px;
     border-bottom: 1px solid #333;
     background-color: rgba(0, 0,0,0.1)
   }
@@ -26,7 +26,7 @@
    font-family: 'Times New Roman', Times, serif;
   }
   header div a:hover {
-    color: crimson;
+    color: rgb(220, 20, 170);
     transition: color 700ms;
   }
  #box{
