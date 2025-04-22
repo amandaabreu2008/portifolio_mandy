@@ -32,10 +32,10 @@
  #box{
     text-align: left;
     padding: 25px;
+    color: white;
  }
  #box img {
-    max-height: 200px;
     border-radius: 50%;
     border: 5px color(rgb pink);
-    margin-bottom: 32px;
- }
+    margin-bottom: 10px;
+  }
